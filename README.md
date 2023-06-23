@@ -36,5 +36,5 @@ npm run lint -- --fix
 ```
 
 
-#项目采用前后端分离
+# 项目采用前后端分离
 https://github.com/heweijiqn/Personnel-authority-management-system.git
