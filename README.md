@@ -1,3 +1,4 @@
+# pull代码请先star~~~
 # 项目以vue-admin-template为基础
 # 技术：Node.js + Npm + Vue + ElementUI + Axios
 ```bash
@@ -33,3 +34,7 @@ npm run lint
 # code format check and auto fix
 npm run lint -- --fix
 ```
+
+
+#项目采用前后端分离
+https://github.com/heweijiqn/Personnel-authority-management-system.git
