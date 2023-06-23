@@ -1,4 +1,5 @@
 # 项目以vue-admin-template为基础
+```bash
 # install dependency
 npm install
 # develop
