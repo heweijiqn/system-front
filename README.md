@@ -1,4 +1,5 @@
 # 项目以vue-admin-template为基础
+# 技术：Node.js + Npm + Vue + ElementUI + Axios
 ```bash
 # install dependency
 npm install
