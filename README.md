@@ -1,14 +1,6 @@
 # 项目以vue-admin-template为基础
-
-
-
-
-## Build Setup
-
-
 # install dependency
 npm install
-
 # develop
 npm run dev
 ```
